@@ -11,6 +11,7 @@ A SQLite3 database
 Additionally, a log file is created to record each phase of the process.
 
 ## ETL Architecture
+![Image](https://github.com/user-attachments/assets/3cf9f1e5-c908-4033-8e0e-c9530b7357b8)
 
 ## Features
 ### Extracts from three different formats (CSV, JSON, XML)
